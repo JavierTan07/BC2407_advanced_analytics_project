@@ -30,6 +30,6 @@ Adapts to evolving market dynamics and consumer preferences through continuous i
 By implementing this framework, Shopee Thailand can significantly improve its customer retention, enhance its revenue, and strengthen its market position in Southeast Asia.
 
 
-Tableau
+# Tableau Dashboard
 ![image](https://github.com/JavierTan07/BC2407_advanced_analytics_project/assets/157681152/360c0b1e-3506-4888-8cbf-9ba68b7a5bee)
 
